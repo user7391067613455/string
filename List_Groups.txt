@@ -18,7 +18,7 @@ Brasera;Rymeria;Alystellia;-Kistu_;Lizfreerun;SerenaVT;Sakurasandra;NoShader
 -
 -
 -
-
+.
 Instance partenaire : <color=#25FFDE>Planty Community</color>
 Instance partenaire : <color=#25FFDE>KS Corp</color>
 Instance partenaire : <color=#25FFDE>Multiplayer sans frontières</color>
