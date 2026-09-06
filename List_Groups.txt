@@ -19,18 +19,18 @@ Brasera;Rymeria;Alystellia;-Kistu_;Lizfreerun;SerenaVT;Sakurasandra;NoShader
 -
 -
 
-1- Plant
-2- KS
-3- MSF
-4- Runner
-5- La Caverne
-6- SulfuraNoizette
-7- NeverLost
-8- Brick
-9- Legacy of Sparda
-10- Noxial
-11- Night
-12- Brasera
+Instance partenaire : <color=#25FFDE>Planty Community</color>
+Instance partenaire : <color=#25FFDE>KS Corp</color>
+Instance partenaire : <color=#25FFDE>Multiplayer sans frontières</color>
+Instance partenaire : <color=#25FFDE>Edge Runner</color>
+Instance partenaire : <color=#25FFDE>La Caverne au Trésor</color>
+Instance partenaire : <color=#25FFDE>SulfuraNoizette</color>
+Instance partenaire : <color=#25FFDE>Neverlost</color>
+Instance partenaire : <color=#25FFDE>Brick</color>
+Instance partenaire : <color=#25FFDE>Legacy of Sparda</color>
+Instance partenaire : <color=#25FFDE>Noxial</color>
+Instance partenaire : <color=#25FFDE>Night Unit</color>
+Instance partenaire : <color=#25FFDE>Brasera</color>
 13- 
 14-
 15-
