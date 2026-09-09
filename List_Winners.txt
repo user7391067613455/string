@@ -11,4 +11,4 @@ NoShader
 ·˚٠Nazashina٠˚·
 106 874
 55
-<color=#0DD7D1><b> Text to display in this space. 12-03-26 </color></b>
+<color=#676773><b> Text to display in this space. 12-03-26 </color></b>
