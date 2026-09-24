@@ -4,7 +4,7 @@ dylan34500 6fb3;
 rx_mirage;ŇØVΔ;Starlork;
 gouki84;lofoxe;Cheese Oka;
 SulfuraNoizette;luko531441;Luluberlu_be;_Allan__;
-X4wen_;Kataise
+Inori~Chan23;Maxou_alek;Helthir
 Poke0107;Superchatton;Петух1312;Monsieur BRICK;Dino4567;Mister_mk
 ୫ÐΛЛТΞ SPΛЯÐΛ୫;୫Dokuツ SPΛЯÐΛ୫;Monsieur_banane 6e31;花Freyaify3花;ELIŌS;NYRŌS;¥ΦЯỤİ¢Ηİ SPΛЯÐΛ
 ElProto51;Grimforge-naoto;_SDK>;andy capé a114;MaxWatch;Itsnoxial;Itsnoxial_V2;Fidelis ea39
@@ -25,7 +25,7 @@ Instance partenaire : <color=#25FFDE>Multiplayer sans frontières</color>
 Instance partenaire : <color=#25FFDE>Edge Runner</color>
 Instance partenaire : <color=#25FFDE>La Caverne au Trésor</color>
 Instance partenaire : <color=#25FFDE>SulfuraNoizette</color>
-Instance partenaire : <color=#25FFDE>Neverlost</color>
+Instance partenaire : <color=#25FFDE>Komori</color>
 Instance partenaire : <color=#25FFDE>Brick</color>
 Instance partenaire : <color=#25FFDE>Legacy of Sparda</color>
 Instance partenaire : <color=#25FFDE>Noxial</color>
